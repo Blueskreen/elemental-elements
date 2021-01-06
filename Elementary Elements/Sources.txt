@@ -1,0 +1,6 @@
+periodic tabel data:
+https://chemistry.stackexchange.com/questions/2793/where-can-i-find-a-downloadable-spreadsheet-of-element-properties
+I edited it and pulled out what I wanted.
+
+used for reference on Electronegativity and Polarity:
+https://chem.libretexts.org/Courses/Oregon_Institute_of_Technology/OIT%3A_CHE_202_-_General_Chemistry_II/Unit_6%3A_Molecular_Polarity/6.1%3A_Electronegativity_and_Polarity
